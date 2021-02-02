@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Blog</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Hugo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 10:00:21 -0600</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Feb 2021 10:00:21 -0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>poetry</title>
-      <link>http://example.org/tags/poetry/</link>
+      <link>/tags/poetry/</link>
       <pubDate>Tue, 02 Feb 2021 10:00:21 -0600</pubDate>
       
-      <guid>http://example.org/tags/poetry/</guid>
+      <guid>/tags/poetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>trees</title>
-      <link>http://example.org/tags/trees/</link>
+      <link>/tags/trees/</link>
       <pubDate>Tue, 02 Feb 2021 10:00:21 -0600</pubDate>
       
-      <guid>http://example.org/tags/trees/</guid>
+      <guid>/tags/trees/</guid>
       <description></description>
     </item>
     
     <item>
       <title>time</title>
-      <link>http://example.org/tags/time/</link>
+      <link>/tags/time/</link>
       <pubDate>Tue, 02 Feb 2021 09:59:40 -0600</pubDate>
       
-      <guid>http://example.org/tags/time/</guid>
+      <guid>/tags/time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>http://example.org/tags/life/</link>
+      <link>/tags/life/</link>
       <pubDate>Tue, 02 Feb 2021 09:52:44 -0600</pubDate>
       
-      <guid>http://example.org/tags/life/</guid>
+      <guid>/tags/life/</guid>
       <description></description>
     </item>
     

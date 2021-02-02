@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/poetry/</loc>
+    <loc>/tags/poetry/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/trees/</loc>
+    <loc>/tags/trees/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/trees-by-joyce-kilmer/</loc>
+    <loc>/trees-by-joyce-kilmer/</loc>
     <lastmod>2021-02-02T10:00:21-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <loc>/that-it-will-never-come-again-by-emily-dickinson/</loc>
     <lastmod>2021-02-02T09:59:40-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/time/</loc>
+    <loc>/tags/time/</loc>
     <lastmod>2021-02-02T09:59:40-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/if-by-rudyard-kipling/</loc>
+    <loc>/if-by-rudyard-kipling/</loc>
     <lastmod>2021-02-02T09:52:44-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/life/</loc>
+    <loc>/tags/life/</loc>
     <lastmod>2021-02-02T09:52:44-06:00</lastmod>
   </url>
   
