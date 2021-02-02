@@ -3,6 +3,7 @@ title: "If by Rudyard Kipling"
 date: 2021-02-02T09:52:44-06:00
 tags: ["poetry", "life"]
 draft: false
+heroimage: /images/if.jpg
 ---
 
 If you can keep your head when all about you

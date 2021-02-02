@@ -3,6 +3,7 @@ title: "Trees by Joyce Kilmer"
 date: 2021-02-02T10:00:21-06:00
 tags: ["poetry", "trees"]
 draft: false
+heroimage: /images/trees.jpg
 ---
 
 I think that I shall never see

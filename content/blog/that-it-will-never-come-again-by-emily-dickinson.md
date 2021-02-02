@@ -3,6 +3,7 @@ title: "That It Will Never Come Again by Emily Dickinson"
 date: 2021-02-02T09:59:40-06:00
 tags: ["poetry", "time"]
 draft: false
+heroimage: /images/that-it-will-never.jpg
 ---
 
 That it will never come again
